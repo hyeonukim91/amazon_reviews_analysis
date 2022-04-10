@@ -1,1 +1,3 @@
 # amazon_reviews_analysis
+
+It is very interesting to study all the comments relating to a product on the internet. This can have several practical applications. In particular, if we are able to determine the feelings of consumers on certain products, we can offer better services, more targeted advertisements or provide better analyzes of the evolution of the market. To investigate this, we found an Amazon database from Kaggle. This database contains several million reviews as well as a label based on the number of stars awarded. We will therefore try to find the best way to classify comments to convey the feeling of a user.
